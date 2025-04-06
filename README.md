@@ -5,10 +5,7 @@
   technologies.
 </h4>
 
-- 🌱 Currently learning the ropes of **React** and **React Native** for dynamic
-applications, building robust backends with **Django**, and exploring the power
-of **Data Science** using **Python (Pandas, NumPy, Scikit-learn)** and
-visualization tools like **Matplotlib**.
+- 🌱 Learning **React**, **React Native**, **Django**, and diving into Data Science with **Python** (**Pandas**, **NumPy**, **Scikit-learn**) and **Matplotlib**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
