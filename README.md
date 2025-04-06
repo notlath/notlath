@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lathrell</h1>
-<h3 align="center">
+<h4 align="center">
   A third-year Computer Science student enthusiastic about web development, data
   science, cybersecurity. Always eager to learn and experiment with emerging
   technologies.
-</h3>
+</h4>
 
 - 🌱 I’m currently learning **React, React Native, Django, Flutter**
 
